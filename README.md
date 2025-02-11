@@ -7,13 +7,13 @@ A dynamic e-commerce website showcasing traditional handicrafts and handloom pro
 
 ->User Authentication – Secure login & registration.
 
-Shopping Cart – Add, update, and remove items before checkout.
+->Shopping Cart – Add, update, and remove items before checkout.
 
-Order Management – Admin panel for managing products & orders.
+->Order Management – Admin panel for managing products & orders.
 
-Search & Filters – Find products easily.
+->Search & Filters – Find products easily.
 
-Database Connectivity – Stores user and product data securely.
+->Database Connectivity – Stores user and product data securely.
 
 🛠️ Tech Stack
 
