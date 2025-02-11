@@ -1,17 +1,30 @@
 # Navata -Handlooms and Handicrafts
-Welcome to our platform dedicated to preserving and promoting the rich heritage of handicrafts and handlooms. Our website serves as a curated marketplace and informational hub for authentic, handcrafted products created by skilled artisans.
+A dynamic website for showcasing and selling handmade handicrafts and handloom products, built with HTML, CSS, JavaScript, PHP, and MySQL, and hosted locally using XAMPP.
 
-🌿 What We Offer:
-Handcrafted Products: A diverse collection of handmade textiles, pottery, woodwork, jewelry, and more.
-Traditional Weaves & Fabrics: Authentic handloom sarees, shawls, and fabrics woven with age-old techniques.
-Sustainable & Ethical Sourcing: Supporting local artisans and eco-friendly production practices.
-Cultural Insights & Stories: Learn about the history, craftsmanship, and significance of various traditional arts.
+🚀 Features
+User-Friendly Interface – Responsive design for smooth browsing.
+Product Catalog – Displays handcrafted items with details and pricing.
+User Authentication – Secure login & registration using PHP & MySQL.
+Shopping Cart – Add, update, and remove products before checkout.
+Order Management – Admin panel for managing products and orders.
+Search & Filters – Easily find specific products.
+Database Connectivity – Stores data securely in MySQL.
 
-🎯 Our Mission:
-We aim to bridge the gap between artisans and buyers, ensuring that traditional craftsmanship thrives in the modern world. By purchasing from us, you contribute to the livelihoods of skilled artisans and help keep these art forms alive for future generations.
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
+Server: XAMPP
+🔧 Installation
 
-🔗 Get Involved:
-Explore our collection and support artisans.
-Share feedback and suggestions to help us grow.
-Contribute to our open-source efforts in promoting traditional crafts.
-Visit our website to discover the beauty of handmade creations! 🌍✨
+1.Clone this repo:
+git clone https://github.com/reethikaa/Navata.git
+
+2.Start XAMPP and enable Apache & MySQL.
+3.Import database.sql into MySQL.
+4.Configure database credentials in config.php.
+5.Open the project in a browser:
+http://localhost/navata/
+
+🎨 About
+This project promotes traditional craftsmanship by providing artisans with an online marketplace for selling handmade products.
