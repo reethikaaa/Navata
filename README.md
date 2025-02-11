@@ -26,6 +26,7 @@ Backend: PHP
 Database: MySQL
 
 Server: XAMPP
+
 🔧 Installation
 
 1.Clone this repo:
